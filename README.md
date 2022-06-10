@@ -1,8 +1,8 @@
 # Projet-Python
 
-Membre du groupe
+#Membre du groupe
 
-ZOHOUNGBOGBO Anlyou
-TETEDE Diane
-Yanclo Paul
-LONMADON Géofroid
+#ZOHOUNGBOGBO Anlyou
+#TETEDE Diane
+#YANCLO Paule
+#LONMADON Géofroid
